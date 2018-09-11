@@ -43,8 +43,8 @@ print(db)
 
 ### Aggregation Framework
 
-The Aggregation framework is a set of analytics tools within MongoDB, that allow you to run various types of reports or analysis on documents in one or more MongoDB collections. The aggregation framework is based on the concept of a pipeline. T
+The Aggregation framework is a set of analytics tools within MongoDB, that allow you to run various types of reports or analysis on documents in one or more MongoDB collections. The aggregation framework is based on the concept of a pipeline.
 
-![](https://ibb.co/joHKs9)
+![Pipeline](https://image.ibb.co/m7Bes9/Screen_Shot_2018_09_10_at_4_56_27_PM.png)
 
 The idea with an aggregation pipeline is that we take input from a MongoDB collection and pass the documents from that collection through one or more stages,each of which performs a different operation on its inputs.
